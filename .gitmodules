@@ -1,3 +1,7 @@
 [submodule "themes/cstate"]
 	path = themes/cstate
 	url = https://github.com/cstate/cstate
+[submodule "cstate-test"]
+	path = cstate-test
+	url = git@github.com:cg505/cstate-test
+	branch = gh-pages
