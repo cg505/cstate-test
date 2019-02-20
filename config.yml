@@ -90,7 +90,7 @@ defaultContentLanguage: en
 # localhost should automatically work.
 #
 # Example: https://status.example.com/
-baseURL: https://status.example.com
+baseURL: https://cg505.com/cstate-test/
 
 ############################################################
 # +------------------------------------------------------+ #
@@ -106,7 +106,7 @@ params:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
     - name: Gateway
-    - name: API
+    - name: guts
       description: The guts of the application.
     - name: Media Proxy
       description: This is the service responsible for serving images, audio, and video. It is reliant on our CDN.
